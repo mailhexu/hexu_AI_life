@@ -1,0 +1,8 @@
+baseURL = 'https://mailhexu.github.io/hexu_AI_life/'
+languageCode = 'en-us'
+title = 'HeXu AI life'
+[params]
+  subtitle = 'test subtitle'
+  [params.contact]
+    email = 'info@example.org'
+    phone = '123456'

@@ -1,7 +1,7 @@
 baseURL = 'https://mailhexu.github.io/hexu_AI_life/'
 languageCode = 'en-us'
 title = 'HeXu AI life'
-theme = 'digital-garden'
+theme = 'digitalgarden'
 [params]
   subtitle = 'test subtitle'
   [params.contact]

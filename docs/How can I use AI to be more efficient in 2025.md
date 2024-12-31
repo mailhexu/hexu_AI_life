@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-/en
+
 # Introduction
 I would like to use AI to make my life in 2025 more fruitfull and ordered. 
 I would like to have time to learn new things. 

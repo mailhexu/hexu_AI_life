@@ -2,9 +2,28 @@ baseURL = 'https://mailhexu.github.io/hexu_AI_life/'
 languageCode = 'en-us'
 title = 'HeXu AI life'
 theme = 'digitalgarden'
+contentDir = 'content'
+
 [params]
   subtitle = 'test subtitle'
   [params.contact]
     email = 'info@example.org'
     phone = '123456'
+
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 2
+
+[[menu.main]]
+  name = 'Posts'
+  url = '/posts'
+  weight = 3
+
+
 

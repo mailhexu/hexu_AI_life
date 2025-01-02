@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HeXu AI life</title>
+    <link>http://localhost:51784/hexu_AI_life/posts/</link>
+    <description>Recent content in Posts on HeXu AI life</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Dec 2024 19:52:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:51784/hexu_AI_life/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New1</title>
+      <link>http://localhost:51784/hexu_AI_life/posts/new1/</link>
+      <pubDate>Mon, 30 Dec 2024 19:52:01 +0100</pubDate>
+      <guid>http://localhost:51784/hexu_AI_life/posts/new1/</guid>
+      <description>&lt;h1 id=&#34;new1&#34;&gt;New1&lt;/h1&gt;&#xA;&lt;p&gt;adf&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
